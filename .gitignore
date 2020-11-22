@@ -11,6 +11,7 @@
 test/
 .vscode
 pubspec.lock
+ext_test.dart
 
 # IntelliJ related
 *.iml
