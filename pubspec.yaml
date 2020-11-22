@@ -1,6 +1,6 @@
 name: awesome_dart_extensions
 description: Awesome dart extensions on various dart data types with your own custom methods.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Huzaifaahmed20/awesome-dart-extensions
 
 environment:
