@@ -33,6 +33,6 @@ You liked this package? then give it a star. If you want to help then:
 [twitter]: https://twitter.com/Huzaifa_Ahmed19
 [github]: https://github.com/Huzaifaahmed20
 [youtube]: https://www.youtube.com/channel/UCLKS-qC6EvlE7bayfQsWPFw
-[instagram]: https://www.instagram.com/huzaifa_ahmed13/
+[instagram]: https://www.instagram.com/_huzaifaahmed_/
 [linkedin]: https://www.linkedin.com/in/huzaifa-ahmed-mohammad/
 [medium]: https://medium.com/@huzaifaahmed_43162
