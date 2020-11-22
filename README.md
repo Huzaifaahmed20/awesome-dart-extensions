@@ -1,14 +1,38 @@
-# awesome_dart_extensions
+<img src='assets/dart-ext-banner.jpg'>
 
-A new Flutter package project.
+# Awesome Dart Extensions
 
-## Getting Started
+Access most used custom methods or extensions on various data types in dart for example, List, String, DateTime, BuildContext and many more.
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+# Available & Active Extensions
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+I update this package frequently to add more and more extensions and I also looking for your contribution on this package, please read [Contribution Guidelines](CONTRIBUTION.md)
+
+## List
+
+- `addMore`: &nbsp; Add more items in the list
+- `addMoreIf`: &nbsp; Add more items in the list on given condition
+
+## String
+
+- `capitalizeFirstWord`: &nbsp; Capitalize first word of your string For Example:
+
+        var testString = "hello world".capitalizeFirstWord()
+        print(testString); // Hello world
+
+# Support
+
+You liked this package? then give it a star. If you want to help then:
+
+- Star this repository.
+- Follow me on [Github], [Twitter], [Youtube], [Instagram], [LinkedIn] and [Medium].
+- Send a Pull Request with new features, see [Contribution Guidelines](CONTRIBUTION.md).
+- Share this package.
+- Create issues if you find a Bug or want to suggest something.
+
+[twitter]: https://twitter.com/Huzaifa_Ahmed19
+[github]: https://github.com/Huzaifaahmed20
+[youtube]: https://www.youtube.com/channel/UCLKS-qC6EvlE7bayfQsWPFw
+[instagram]: https://www.instagram.com/huzaifa_ahmed13/
+[linkedin]: https://www.linkedin.com/in/huzaifa-ahmed-mohammad/
+[medium]: https://medium.com/@huzaifaahmed_43162
