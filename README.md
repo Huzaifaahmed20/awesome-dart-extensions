@@ -1,4 +1,4 @@
-<img src='assets/dart-ext-banner.jpg'>
+<img src='https://github.com/Huzaifaahmed20/awesome-dart-extensions/blob/master/assets/dart-ext-banner.jpg?raw=true'>
 
 # Awesome Dart Extensions
 
