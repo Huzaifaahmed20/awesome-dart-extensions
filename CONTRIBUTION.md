@@ -8,7 +8,7 @@
 
 - When you're writing your extension new **Data Type** make sure to name Extension Class as it's **Data Type**, like if you're making extension _DateTime_ class so write it as follows,
 
-        class DateTimeExt on DateTime {
+        extension DateTimeExt on DateTime {
             // your extension method here
         }
 
