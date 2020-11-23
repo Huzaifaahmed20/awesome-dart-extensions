@@ -1,5 +1,9 @@
 # Contribution Guidelines
 
+- Create new branch for your extension as `DataType-ExtensionName`:
+
+        List-addMoreIf
+        
 - Check if file and folder is exist on extensions folder, for example if you're making extension on list so there is a file in extension folder like `(extension/list.dart)` insert your extension there.
 
 - If it is not exist make sure to create one with correct name on **Dart Data Type** like `date_time.dart`, then export that file on `src/awesome_dart_extension_impl.dart`.
